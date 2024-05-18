@@ -1,0 +1,71 @@
+
+h1{
+    color:blue;
+    background-color: red;
+   font-weight:bolder; 
+}
+
+/*selector de id */
+#principal {
+
+    color: yellow;
+    background-color: blue;
+}
+<main>
+
+.medieval (jersey-10 charted-regular 
+
+font-family: "Jersey 10 Charted", sans-serif;
+font-weight: 10000;
+font-style::first-letter)
+
+    <ol
+/*selector de cla   se */
+.azul {
+    color:blue
+}
+<ul>    
+list-style-type: none;
+</ul>
+
+<ul id: "COMIDA": list-style:read-write>
+
+</ul>
+/* selector de etiqueta */
+p{
+    color:red
+}
+
+table {
+    background-color: beige;
+    color: blue;
+    text-align: :center;
+    thead {
+        background-color: aqua;
+    }
+    
+.recreo {
+    background-color: black;
+
+}
+
+}
+
+#buscador {
+    text-align: right;
+}
+
+input {
+    background-color: rgb(206, 248, 19);
+    color: black;
+}
+
+#boton {
+    background-color: gold;
+    a;
+}
+
+.form-input {
+    background-color: yellow;
+    color: black;
+}
